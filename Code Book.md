@@ -71,7 +71,7 @@ Notes:
 - Each feature vector is a row on the text file.
 
 
-[You can access the data from the link below:](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
+[click here to access the data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
 
 
 ## Data Transformation
