@@ -22,11 +22,11 @@ A R script called **run_analysis.R** has been create to perform the taskes below
 ## Data Transformation
 A R script **run_analysis.R** has been created to perform data cleaning. The script can perfor the taskes below.
 
-1) Merges the training and the test sets to create one data set.  
-2) Extracts only the measurements on the mean and standard deviation for each measurement.   
-3) Uses descriptive activity names to name the activities in the data set  
-4) Appropriately labels the data set with descriptive variable names.   
-5) From the data set in step above, creates a second, independent tidy data set with theaverage of each
+1)  Merges the training and the test sets to create one data set.  
+2)  Extracts only the measurements on the mean and standard deviation for each measurement.   
+3)  Uses descriptive activity names to name the activities in the data set  
+4)  Appropriately labels the data set with descriptive variable names.   
+5)  From the data set in step above, creates a second, independent tidy data set with theaverage of each
 
 ## In the Repository, you will find 
 - Code Book.md : information on how the raw data get collected, description of the variables, the data, and data transformations to clean up the data
