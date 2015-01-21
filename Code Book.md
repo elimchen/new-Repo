@@ -14,10 +14,21 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
-
+|  Variable Name |Description   |
+|---|---|
+| tBodyAcc-XYZ   | X, Y and Z Component of Body Acceleration in Time Domain 	  |
+| tGravityAcc-XYZ   | X, Y and Z Component of Gravity Acceleration in Time Domain   |
+| tBodyAccJerk-XYZ   | X, Y and Z Component of Body Acceleration Jerk in Time Domain  |
+| tBodyGyro-XYZ | X, Y and Z Component of Body Angular Velocity in Time Domain  |
+| tBodyAccMag  |Magnitude of Body Acceleration in Time Domain   |
+| tGravityAccMag  | Magnitude of Gravity Aceleration in Time Domain  |	
+| tBodyAccJerkMag  |Magnitude of Body Acceleration Jerk in Time Domain   |
+| tBodyGyroMag  | Magnitude of Body Angular Velocity in Time Domain  |	
+| tBodyGyroJerkMag  | Magnitude of Body Angular Jerk in Time Domain  |
+|   |   |
 
 |Variable Name 		| Description 								:|
-| ------------- 	| :-------------								:| 
+| ------------- 	| :-------------							:| 
 | tBodyAcc-XYZ 		| : X, Y and Z Component of Body Acceleration in Time Domain 		:|
 | tGravityAcc-XYZ 	| : X, Y and Z Component of Gravity Acceleration in Time Domain 	:|
 | tBodyAccJerk-XYZ 	| : X, Y and Z Component of Body Acceleration Jerk in Time Domain	:|
@@ -27,7 +38,7 @@ These signals were used to estimate variables of the feature vector for each pat
 | tBodyAccJerkMag	| : Magnitude of Body Acceleration Jerk in Time Domain			:|
 | tBodyGyroMag		| : Magnitude of Body Angular Velocity in Time Domain			:|
 | tBodyGyroJerkMag	| : Magnitude of Body Angular Jerk in Time Domain			:|
-| ------------- 	| :-------------								:| 
+| ------------- 	| :-------------							:| 
 | fBodyAcc-XYZ 		| : X, Y and Z Component of Body Acceleration in Frequency Domain	:|
 | fBodyAccJerk-XYZ 	| : X, Y and Z Component of Body Acceleration Jerk in Frequency Domain	:|
 | fBodyGyro-XYZ 	| : X, Y and Z Component of Body Angular Velocity in Frequency Domain	:|
