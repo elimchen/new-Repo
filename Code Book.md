@@ -37,8 +37,7 @@ These signals were used to estimate variables of the feature vector for each pat
 |  fBodyGyroJerkMag |Magnitude of Body Angular Jerk in Frequency Domain   |
 |Subject_Code|ID for volunteers who carried out the experiments, number from 1-30 |
 |Activity_Code|ID for activities that volunteers performed in the experiments, number from 1-6|
-|Activity_Name|Description for the Activity Codes   
-| | <ul><li>WALKING --> 1</li><li>WALKING_UPSTAIRS --> 2</li><li>WALKING_DOWNSTAIRS --> 3</li><li>SITTING --> 4</li><li>STANDING --> 5</li><li>LAYING --> 6</li></ul|
+|Activity_Name| <ul><li>Description for the Activity Codes</li><li>WALKING --> 1</li><li>WALKING_UPSTAIRS --> 2</li><li>WALKING_DOWNSTAIRS --> 3</li><li>SITTING --> 4</li><li>STANDING --> 5</li><li>LAYING --> 6</li></ul>|
 
 
 The set of variables that were estimated from these signals are: 

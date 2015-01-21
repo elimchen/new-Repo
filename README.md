@@ -8,7 +8,7 @@ The purpose of this project is to demonstrate students' ability to collect, work
 1) a tidy data set as described below, 
 2) a link to a Github repository with your script for performing the analysis, and 
 3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. 
-*4) a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.  
+4) a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.  
 
 
 [The link below are the data for the project:]   
